@@ -1,4 +1,10 @@
 /*  your css code here. If applicable */
 *{
-	font-family: arial;
+	font-family: Times New Roman;
 }
+
+button{
+	background-color: lightblue;
+}
+
+
